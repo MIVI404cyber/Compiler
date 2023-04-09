@@ -15,10 +15,9 @@ compile Cython &amp; bash Ex:(./file)
 - rm -rf Compiler
 - git clone https://github.com/MIVI404cyber/Compiler
 - cd Compiler
-- chmod +x *
 - python Compile.py
 # Single Command
-- pkg install git ; rm -rf Compiler ; git clone https://github.com/MIVI404cyber/Compiler ; cd Compiler ; chmod +x * ; python Compile.py
+- pkg install git ; rm -rf Compiler ; git clone https://github.com/MIVI404cyber/Compiler ; cd Compiler ; python Compile.py
 
  [CODED BY MR.MIVI]
 
